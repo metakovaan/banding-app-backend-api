@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Nike", "logo": "nike-logo.png" },
+    { "id": 2, "name": "Adidas", "logo": "adidas-logo.png" },
+    { "id": 3, "name": "Puma", "logo": "puma-logo.png" },
+    { "id": 4, "name": "Reebok", "logo": "reebok-logo.png" }
+]
